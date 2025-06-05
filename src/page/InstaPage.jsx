@@ -7,7 +7,7 @@ import bessieImg from "../assets/images/Bessie-Coleman.png";
 import Gallery from "../components/Gallery";
 import Footer from "../components/Footer";
 import NewPostModal from "../components/NewPostModal";
-import image1 from "../assets/images/vals-thorens.png";
+import image1 from "../assets/images/Vals-Thorens.png";
 import image2 from "../assets/images/Restaurant-Terrace.png";
 import image3 from "../assets/images/An-outdoor-cafe.png";
 import image4 from "../assets/images/A-very-long-bridge-over-the-forest.png";
