@@ -1,12 +1,20 @@
-# React + Vite
+# Insta-Spots
+A React conversion of an Instagram-like gallery app, originally built with HTML, CSS, and JavaScript.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 About
+This project is a React-based version of an Instagram-style gallery app.  
+It was converted from a static HTML, CSS, and JavaScript implementation as part of an AltSchool assignment.
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- View a gallery of images
+- Edit user profile (name, job, profile picture)
+- Add new posts (with image upload or URL)
+- Like/unlike gallery images
+- Responsive design
+
+## 📸 Screenshot
+
+![Gallery Screenshot](./screenshots/gallery.png)
