@@ -18,3 +18,4 @@ It was converted from a static HTML, CSS, and JavaScript implementation as part 
 ## 📸 Screenshot
 
 ![Gallery Screenshot](./screenshots/gallery.png)
+
